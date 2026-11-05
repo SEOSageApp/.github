@@ -24,11 +24,11 @@ brew install --cask seosageapp/tap/seosage
 
 ### In this organisation
 
-- [**SEOSage**](https://github.com/SEOSageApp/SEOSage): the public project page, with screenshots and install steps
+- [**Discussions**](https://github.com/orgs/SEOSageApp/discussions): ask questions, suggest ideas and report bugs
 - [**homebrew-tap**](https://github.com/SEOSageApp/homebrew-tap): the Homebrew install file
 
 ### Links
 
 [Website](https://seosage.co) · [Features](https://seosage.co/features/) · [Pricing](https://seosage.co/pricing/) · [Free SEO tools](https://seosage.co/tools/) · [Changelog](https://seosage.co/changelog/) · [Security](https://seosage.co/security/)
 
-Questions or feedback: [hello@seosage.co](mailto:hello@seosage.co) · [X](https://x.com/SEOsageapp) · [LinkedIn](https://www.linkedin.com/company/seosage/) · [YouTube](https://www.youtube.com/channel/UC4kGY4tb6FhvCbhVDofk-kA)
+Questions or feedback: [Discussions](https://github.com/orgs/SEOSageApp/discussions) · [hello@seosage.co](mailto:hello@seosage.co) · [X](https://x.com/SEOsageapp) · [LinkedIn](https://www.linkedin.com/company/seosage/) · [YouTube](https://www.youtube.com/channel/UC4kGY4tb6FhvCbhVDofk-kA)
